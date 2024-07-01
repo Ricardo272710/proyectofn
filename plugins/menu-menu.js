@@ -84,12 +84,12 @@ const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A
 
 let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.genero == 'Ocultado 🕶️' ? `🕶️` : user.genero == 'Mujer 🚺' ? `🚺` : user.genero == 'Hombre 🚹' ? `🚹` : '👤'} ${user.registered === true ? user.name : username}*${(conn.user.jid == global.conn.user.jid ? '' : `\n*SOY SUB BOT DE: https://wa.me/${global.conn.user.jid.split`@`[0]}*`) || ''}
 
-*〔 DRAGON Bot 〕*
+*〔 SPIDER BOT 〕*
 
-*╭━〔 DRAGON BOT 〕━⬣*
- ┃👤 Creador : Dragon Bot
- ┃📱 Numero ; +51 926 933 818
- ┃🤑 Adquirir Bot Propio : +51 926 933 818
+*╭━〔 SPIDER BOT 〕━⬣*
+ ┃👤 Creador : Spider Bot
+ ┃📱 Numero ; +593 97 913 3620
+ ┃🤑 Adquirir Bot Propio : +593 97 913 3620
  ┃👻 Ig : ${md}
 *╰━━━━━━━━━━━━⬣*
 
@@ -100,7 +100,7 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃⊜ Tokens ➟ ${joincount} 🪙
 *╰━━━━━━━━━━━━⬣*
 
-*╭━〔 INFORMACIÓN DE DRAGON BOT 〕⬣*
+*╭━〔 INFORMACIÓN DE  SPIDER BOT 〕⬣*
 ┃💫➺ _${usedPrefix}cuentasbot_
 ┃💫➺ _${usedPrefix}gruposbot_
 ┃💫➺ _${usedPrefix}estado_
