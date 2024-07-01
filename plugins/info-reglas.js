@@ -13,11 +13,16 @@ global.Reglas = `
 *━━━━━━━━━━━━━⬣*
 *Ojo Para Mayor Confianza Al Momento De Usted Hacer El Pago Yo Lo Estaria Agregando A Mis Contactos Y A Mi Grupo Oficial 🐉*
 *━━━━━━━━━━━━━⬣*
-Contacto: @cristhofer_yallico
-Wpp: +51 926 933 818
+Contacto: @proyecto_r.a_
+Wpp: +593 97 913 3620
+
+Contacto: @Anthonyorg
+Wpp: +507 6420-6082
+
 Metodo de Pago:
 ✔️Paypal
-✔️Transferencia y Deposito (En todo 🇵🇪)
-✔️Yape
+✔️Transferencia pichincha
+✔️yappy
+✔️nequi panama
 *━━━━━━━━━━━━━⬣*
 `;
