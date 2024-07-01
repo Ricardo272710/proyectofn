@@ -93,16 +93,6 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
  ┃👻 Ig : https://www.instagram.com/proyecto_r.a_
 *╰━━━━━━━━━━━━⬣*
 
-
-*╭━〔 INFORMACIÓN DE  SPIDER BOT 〕⬣*
-┃💫➺ _${usedPrefix}estado_
-┃💫➺ _${usedPrefix}comprarbot_
-┃💫➺ _${usedPrefix}comprarbot1_
-┃💫➺ _${usedPrefix}creador_
-┃💫➺ _${usedPrefix}velocidad_
-┃💫➺ _${usedPrefix}reglas_
-*╰━━━━━━━━━━━━⬣*
-
 *╭━〔 FUNCION VS / REGLAS / FICHA〕━⬣*
 ┃💻➺ _${usedPrefix}Fem4_
 ┃💻➺ _${usedPrefix}Fem6_
@@ -304,13 +294,6 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃❤️➺ _${usedPrefix}terminar | finish *@tag*_
 *╰━━━━━━━━━━━━⬣*
 
-*╭━[ VOTACIONES EN GRUPOS 📧 ]━⬣*
-┃📧➺ _${usedPrefix}crearvoto | startvoto *texto*_
-┃📧➺ _${usedPrefix}sivotar | upvote_
-┃📧➺ _${usedPrefix}novotar | devote_
-┃📧➺ _${usedPrefix}vervotos | cekvoto_
-┃📧➺ _${usedPrefix}delvoto | deletevoto_
-*╰━━━━━━━━━━━━⬣*
 
 *╭━━━[ CONTENIDO 🔞 ]━━⬣*
 ┃🔞➺ _${usedPrefix}hornymenu_
@@ -327,10 +310,6 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃🛰️➺ _${usedPrefix}tts es *texto*_
 *╰━━━━━━━━━━━━⬣*
 
-*╭━━━[ LOGOS 🔆 ]━━⬣*
-┃🔆 _${usedPrefix}logos *efecto texto*_
-┃🌅 _${usedPrefix}menulogos2_
-*╰━━━━━━━━━━━━⬣*
 
 *╭━━━[ EFECTOS ⛺ ]━━⬣*
 ┃⛺ _${usedPrefix}simpcard *@tag*_
@@ -437,8 +416,6 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 *╰━━━━━━━━━━━━⬣*
 
 *╭━━━[ FUNCIÓN RPG ]━━⬣*
-┃⚗️➺ _${usedPrefix}botemporal *enlace* *cantidad*_
-┃⚗️➺ _${usedPrefix}addbot *enlace* *cantidad*_
 ┃⚗️➺ _${usedPrefix}pase premium_
 ┃⚗️➺ _${usedPrefix}pass premium_
 ┃⚗️➺ _${usedPrefix}listapremium | listprem_
@@ -457,7 +434,6 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃⚗️➺ _${usedPrefix}animales_
 ┃⚗️➺ _${usedPrefix}alimentos_
 ┃⚗️➺ _${usedPrefix}curar | heal_
-┃⚗️➺ _${usedPrefix}buy_
 ┃⚗️➺ _${usedPrefix}sell_
 ┃⚗️➺ _${usedPrefix}verificar | registrar_
 ┃⚗️➺ _${usedPrefix}perfil | profile_
@@ -485,14 +461,6 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃🎐 _${usedPrefix}emojimix *😺+😆*_
 ┃🎐 _${usedPrefix}scircle | círculo *imagen*_
 ┃🎐 _${usedPrefix}semoji | emoji *tipo emoji*_
-┃🎐 _${usedPrefix}attp *texto*_
-┃🎐 _${usedPrefix}attp2 *texto*_
-┃🎐 _${usedPrefix}ttp *texto*_
-┃🎐 _${usedPrefix}ttp2 *texto*_
-┃🎐 _${usedPrefix}ttp3 *texto*_
-┃🎐 _${usedPrefix}ttp4 *texto*_
-┃🎐 _${usedPrefix}ttp5 *texto*_
-┃🎐 _${usedPrefix}ttp6 *texto*_
 ┃🎐 _${usedPrefix}dado_
 ┃🎐 _${usedPrefix}stickermarker *efecto : responder a imagen*_
 ┃🎐 _${usedPrefix}stickerfilter *efecto : responder a imagen*_
