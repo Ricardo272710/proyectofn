@@ -87,9 +87,6 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 *〔 SPIDER BOT 〕*
 
 *╭━〔 SPIDER BOT 〕━⬣*
- ┃👤 Creador : Spider Bot
- ┃📱 Numero ; +593 97 913 3620
- ┃🤑 Adquirir Bot Propio : +593 97 913 3620
  ┃👻 Ig : https://www.instagram.com/proyecto_r.a_
 *╰━━━━━━━━━━━━⬣*
 
