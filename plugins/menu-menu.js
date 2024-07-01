@@ -285,16 +285,6 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃🌐➺ _${usedPrefix}off_
 *╰━━━━━━━━━━━━⬣*
 
-*╭━━━[ PAREJAS 💞 ]━━⬣*
-┃❤️➺ _${usedPrefix}listaparejas | listship_
-┃❤️➺ _${usedPrefix}mipareja | mylove_
-┃❤️➺ _${usedPrefix}pareja | couple *@tag*_
-┃❤️➺ _${usedPrefix}aceptar | accept *@tag*_
-┃❤️➺ _${usedPrefix}rechazar | decline *@tag*_
-┃❤️➺ _${usedPrefix}terminar | finish *@tag*_
-*╰━━━━━━━━━━━━⬣*
-
-
 *╭━━━[ CONTENIDO 🔞 ]━━⬣*
 ┃🔞➺ _${usedPrefix}hornymenu_
 *╰━━━━━━━━━━━━⬣*
