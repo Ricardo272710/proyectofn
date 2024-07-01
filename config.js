@@ -103,8 +103,8 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["593979133620", '𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗼𝘁 🐉', 1], 
-["50764206082", '𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗼𝘁 🐉', 1]]
+["593979133620", 'Spider 𝗕𝗼𝘁 🐉', 1], 
+["50764206082", '  Spider 𝗕𝗼𝘁 🐉', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -170,13 +170,13 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗼𝘁 🐉"
-global.igfg = "𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗼𝘁 🐉"
+global.wm = "Spider 𝗕𝗼𝘁 🐉"
+global.igfg = "Spider 𝗕𝗼𝘁 🐉"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
-global.nomorown = "51902360712"
+global.nomorown = "593979133620"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
