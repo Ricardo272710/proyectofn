@@ -1,17 +1,11 @@
-let ff = `https://telegra.ph/file/24fa902ead26340f3df2c.png`
 const handler = async (m, {conn}) => {
-  let ff = `https://telegra.ph/file/24fa902ead26340f3df2c.png`
-  m.reply(global.semigey);
+  const who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender;
+  await conn.sendFile(m.chat, global.API('https://some-random-api.com', '/canvas/gay', {
+    avatar: await conn.profilePictureUrl(who, 'image').catch((_) => 'https://telegra.ph/file/24fa902ead26340f3df2c.png'),
+  }), 'error.png', '*🏳️‍🌈 Soy semi y si soy gay me gusta el pene negro 🏳️‍🌈*', m);
+  
 };
-handler.command = /^(semigey|semigay)$/i;
+handler.help = ['gay'];
+handler.tags = ['maker'];
+handler.command = /^(semigay)$/i;
 export default handler;
-handler.admin = true
-handler.group = true
-handler.botAdmin = true
-let ff = `https://telegra.ph/file/24fa902ead26340f3df2c.png`
-await conn.sendFile(m.chat, 'https://telegra.ph/file/24fa902ead26340f3df2c.png', 'fantasy.jpg', semigaytxt.trim(),
-   thumbnailUrl: 'https://telegra.ph/file/24fa902ead26340f3df2c.png'
-
-global.semigey = `
-Soy semi y si soy gay me gusta el pene negro
-`;
