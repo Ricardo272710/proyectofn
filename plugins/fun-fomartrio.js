@@ -8,7 +8,7 @@ while (b === a)
 let c
 do c = ps.getRandom()
 while (b === a)
-m.reply(`*Hey!!! ${toM(a)}, ${toM(b)} y ${toM(c)} han pensado en hacer un trio? ustedes 3 hacen un buen trio 😳😏*`, null, {
+m.reply(`*Hey!!! ${toM(a)}, ${toM(b)} y ${toM(c)} han pensado en hacer un trio? ustedes 3 hacen un buen trio , cojerian tan fuerte hasta quedarse sin aliento😳😏*`, null, {
 mentions: [a, b, c],
 })}
 handler.help = ['formartrio']
