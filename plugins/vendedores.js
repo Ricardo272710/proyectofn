@@ -4,8 +4,7 @@ const handler = async (m, {conn}) => {
 handler.command = /^(vendedores)$/i;
 export default handler;
 global.vendedores = `
-*Creador De : 𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 𝙍.𝘼 🕷️*
-*Creador De : 𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 𝙍.𝘼 🕷️*
+*VENDEDORES DE : 𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 𝙍.𝘼 🕷️*
 
 *👤Ig :* https://www.instagram.com/proyecto_r.a_
 *🇪🇨 RICARDO CEO 
