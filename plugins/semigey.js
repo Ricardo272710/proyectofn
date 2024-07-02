@@ -10,4 +10,3 @@ handler.botAdmin = true
 global.semigey = `
 ohhhh si soy gay me gusta el 
 `;
-`;
