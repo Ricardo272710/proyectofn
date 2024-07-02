@@ -118,10 +118,7 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 SPAM Y EDITS 〕⬣*
-┃👤➺ _${usedPrefix}SpamApk_
 ┃👤➺ _${usedPrefix}SpamComu_
-┃👤➺ _${usedPrefix}ApkEdits_
-┃👤➺ _${usedPrefix}DriveEdits_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 JUEGOS - MULTI JUEGOS 〕━⬣*
