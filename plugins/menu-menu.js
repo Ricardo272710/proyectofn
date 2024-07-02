@@ -103,7 +103,7 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃💻➺ _${usedPrefix}Mixto6_
 ┃💻➺ _${usedPrefix}MixtoInterna4_
 ┃💻➺ _${usedPrefix}MixtoInterna6_
-┃💻➺ _${usedPrefix}ReglasApos_
+┃💻➺ _${usedPrefix}apos_
 ┃💻➺ _${usedPrefix}Ficha / Formulario Pa Entrar A Team_
 ┃💻➺ _${usedPrefix}Vs4_
 ┃💻➺ _${usedPrefix}Vs6_
