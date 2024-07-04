@@ -85,12 +85,11 @@ const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A
 let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.genero == 'Ocultado 🕶️' ? `🕶️` : user.genero == 'Mujer 🚺' ? `🚺` : user.genero == 'Hombre 🚹' ? `🚹` : '👤'} ${user.registered === true ? user.name : username}*${(conn.user.jid == global.conn.user.jid ? '' : `\n*SOY SUB BOT DE: https://wa.me/${global.conn.user.jid.split`@`[0]}*`) || ''}
 
 
-*〔🕷️SPIDER MAN BOT 🕸️〕
+*〔🕷️𝘽𝙊𝙏 𝙁𝙉 𝙎𝙋𝙊𝙍𝙏𝙎 🕸️〕
 
-╭━〔SPIDER MAN 〕━⬣
-┃ACTIVO: 03.06.2024
-┃   CREADORES:
-┃RICARDO—ANTHONY
+╭━〔𝘽𝙊𝙏 𝙁𝙉 𝙎𝙋𝙊𝙍𝙏𝙎〕━⬣
+𝙃𝙊𝙇𝘼 𝙅𝙀𝙁𝙀 𝙔𝙀𝙄𝙆𝙊
+𝙀𝙉 𝙌𝙐𝙀 𝙋𝙐𝙀𝘿𝙊 𝙎𝙀𝙍𝙑𝙄𝙍𝙏𝙀!
 ╰━━━━━━━━━━━⬣
 ╭━〔COMANDOS〕━⬣
 ┃.menu | .comandos
@@ -270,9 +269,6 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃🌐➺ .off
 ╰━━━━━━━━━━━⬣
 
-╭━━[ CONTENIDO ]━━⬣
-┃🔞➺ .hornymenu
-╰━━━━━━━━━━━⬣
 
 ╭━[ CONVERTIDORES ]━⬣
 ┃🛰️➺ .toimg | img | jpg sticker
