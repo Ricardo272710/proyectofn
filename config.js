@@ -13,7 +13,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["593979133620", 'Spider 𝗕𝗼𝘁 🐉', true], //𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗼𝘁 🐉
+["593979133620", '𝘽𝙊𝙏 𝙁𝙉 𝙎𝙋𝙊𝙍𝙏𝙎 🐉', true], //𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗼𝘁 🐉
 ["50764206082"]]
 
 global.mods = []
@@ -103,8 +103,8 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["593979133620", 'Spider 𝗕𝗼𝘁 🐉', 1], 
-["50764206082", '  Spider 𝗕𝗼𝘁 🐉', 1]]
+["593979133620", '𝘽𝙊𝙏 𝙁𝙉 𝙎𝙋𝙊𝙍𝙏𝙎 🐉', 1], 
+["50764206082", '  𝘽𝙊𝙏 𝙁𝙉 𝙎𝙋𝙊𝙍𝙏𝙎 🐉', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -112,8 +112,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "Spider 𝗕𝗼𝘁 🐉"
-global.author = "Spider 𝗕𝗼𝘁 🐉"
+global.packname = "𝘽𝙊𝙏 𝙁𝙉 𝙎𝙋𝙊𝙍𝙏𝙎 🐉"
+global.author = "YEIKO FN 🐉"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -121,31 +121,31 @@ global.author = "Spider 𝗕𝗼𝘁 🐉"
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "Spider 𝗕𝗼𝘁 🐉"
+global.gt = "𝘽𝙊𝙏 𝙁𝙉 𝙎𝙋𝙊𝙍𝙏𝙎 🐉"
 
-global.yt = "https://www.instagram.com/proyecto_r.a_"
-global.yt2 = "https://www.instagram.com/proyecto_r.a_"
-global.ig = "https://www.instagram.com/proyecto_r.a_"
-global.md = "https://www.instagram.com/proyecto_r.a_"
-global.fb = "https://www.instagram.com/proyecto_r.a_"
-global.tk = "https://www.instagram.com/proyecto_r.a_"
-global.ths = "https://www.instagram.com/proyecto_r.a_"
-global.paypal = 'https://www.instagram.com/proyecto_r.a_'
-global.asistencia = 'https://www.instagram.com/proyecto_r.a_' //Contacto
+global.yt = "https://www.instagram.com/soy_yeiko_yt"
+global.yt2 = "https://www.instagram.com/soy_yeiko_yt"
+global.ig = "https://www.instagram.com/soy_yeiko_yt"
+global.md = "https://www.instagram.com/soy_yeiko_yt"
+global.fb = "https://www.instagram.com/soy_yeiko_yt"
+global.tk = "https://www.instagram.com/soy_yeiko_yt"
+global.ths = "https://www.instagram.com/soy_yeiko_yt"
+global.paypal = 'https://www.instagram.com/soy_yeiko_yt'
+global.asistencia = 'https://www.instagram.com/soy_yeiko_yt' //Contacto
 
-global.nna = 'https://www.instagram.com/proyecto_r.a_' // CANAL UPDATE
-global.nn2 = 'https://www.instagram.com/proyecto_r.a_' // CANAL GataBot
-global.nna2 = 'https://www.instagram.com/proyecto_r.a_' // Help
-global.nn = 'https://www.instagram.com/proyecto_r.a_' // Grupo 1
-global.nnn = 'https://www.instagram.com/proyecto_r.a_' // Grupo 2
-global.nnnt = 'https://www.instagram.com/proyecto_r.a_' // Grupo 3
-global.nnntt = 'https://www.instagram.com/proyecto_r.a_' // Grupo 4
-global.nnnttt = 'https://www.instagram.com/proyecto_r.a_' // Grupo 5
-global.nnnttt1 = 'https://www.instagram.com/proyecto_r.a_' // Grupo 6 COL
-global.nnnttt2 = 'https://www.instagram.com/proyecto_r.a_' // Grupo 7 COL
-global.nnnttt3 = 'https://www.instagram.com/proyecto_r.a_' // Grupo 8 COL
-global.nnnttt4 = 'https://www.instagram.com/proyecto_r.a_' // Grupo 9 COL
-global.nnnttt5 = 'https://www.instagram.com/proyecto_r.a_' // A.T.M.M
+global.nna = 'https://www.instagram.com/soy_yeiko_yt' // CANAL UPDATE
+global.nn2 = 'https://www.instagram.com/soy_yeiko_yt' // CANAL GataBot
+global.nna2 = 'https://www.instagram.com/soy_yeiko_yt' // Help
+global.nn = 'https://www.instagram.com/soy_yeiko_yt' // Grupo 1
+global.nnn = 'https://www.instagram.com/soy_yeiko_yt' // Grupo 2
+global.nnnt = 'hhttps://www.instagram.com/soy_yeiko_yt' // Grupo 3
+global.nnntt = 'https://www.instagram.com/soy_yeiko_yt' // Grupo 4
+global.nnnttt = 'https://www.instagram.com/soy_yeiko_yt_' // Grupo 5
+global.nnnttt1 = 'https://www.instagram.com/soy_yeiko_yt' // Grupo 6 COL
+global.nnnttt2 = 'https://www.instagram.com/soy_yeiko_yt' // Grupo 7 COL
+global.nnnttt3 = 'https://www.instagram.com/soy_yeiko_yt' // Grupo 8 COL
+global.nnnttt4 = 'https://www.instagram.com/soy_yeiko_yt' // Grupo 9 COL
+global.nnnttt5 = 'https://www.instagram.com/soy_yeiko_yt' // A.T.M.M
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.rg = '╰⊱✅⊱ *𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊 | 𝙍𝙀𝙎𝙐𝙇𝙏* ⊱✅⊱╮\n\n'
@@ -170,8 +170,8 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "Spider 𝗕𝗼𝘁 🐉"
-global.igfg = "Spider 𝗕𝗼𝘁 🐉"
+global.wm = "𝘽𝙊𝙏 𝙁𝙉 𝙎𝙋𝙊𝙍𝙏𝙎 🐉"
+global.igfg = "𝘽𝙊𝙏 𝙁𝙉 𝙎𝙋𝙊𝙍𝙏𝙎 🐉"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
