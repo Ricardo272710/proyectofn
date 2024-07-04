@@ -13,7 +13,7 @@ if (command === 'play') {
 additionalText = '𝘼𝙐𝘿𝙄𝙊 🔊'
 } else if (command === 'play2') {
 additionalText = '𝙑𝙄𝘿𝙀𝙊 🎥'}
-let captionvid = `〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
+let captionvid = `〔 Spider 𝗕𝗼𝘁 〕
 
 ও 𝙏𝙄𝙏𝙐𝙇𝙊 | 𝙏𝙄𝙏𝙇𝙀
 »  ${yt_play[0].title}
