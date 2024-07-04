@@ -84,96 +84,96 @@ const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A
 
 let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.genero == 'Ocultado 🕶️' ? `🕶️` : user.genero == 'Mujer 🚺' ? `🚺` : user.genero == 'Hombre 🚹' ? `🚹` : '👤'} ${user.registered === true ? user.name : username}*${(conn.user.jid == global.conn.user.jid ? '' : `\n*SOY SUB BOT DE: https://wa.me/${global.conn.user.jid.split`@`[0]}*`) || ''}
 
-*〔 SPIDER BOT 〕
 
-╭━〔 SPIDER BOT 〕━⬣
-┃
-┃    🕷️ 𝘾𝙍𝙀𝘼𝘿𝙊𝙍𝙀𝙎: 
-  𝙍𝙄𝘾𝘼𝙍𝘿𝙊-𝘼𝙉𝙏𝙃𝙊𝙉𝙔
-👻 Ig : https://www.instagram.com/proyecto_r.a_
-╰━━━━━━━━━━━━⬣
+*〔🕷️SPIDER MAN BOT 🕸️〕
+
+╭━〔SPIDER MAN 〕━⬣
+┃ACTIVO: 03.06.2024
+┃   CREADORES:
+┃RICARDO—ANTHONY
+╰━━━━━━━━━━━⬣
+╭━〔COMANDOS〕━⬣
+┃.menu | .comandos
+🕷️🕸️🕷️🕸️🕷️🕸️🕷️🕸️🕷️
+┃PERMANENTE | MENSUAL
+╰━━━━━━━━━━━⬣
 
 ╭━〔 FUNCION VS / REGLAS / FICHA〕━⬣
-┃💻➺ .Fem4
-┃💻➺ .Fem6
-┃💻➺ .FemInterna4
-┃💻➺ .FemInterna6
-┃💻➺ .Masc4
-┃💻➺ .Masc6
-┃💻➺ .MascInterna4
-┃💻➺ .MascInterna6
-┃💻➺ .Mixto4
-┃💻➺ .Mixto6
-┃💻➺ .MixtoInterna4
-┃💻➺ .MixtoInterna6
-┃💻➺ .apos
-┃💻➺ .Ficha / jugador
-┃💻➺ .Vs4
-┃💻➺ .Vs6
-┃💻➺ .Vs8
-┃💻➺ .Vs12
-┃💻➺ .Vs16
-┃💻➺ .Vs20
+┃🍬➺ .Fem4
+┃🍬➺ .Fem6
+┃🍬➺ .FemInterna4
+┃🍬➺ .FemInterna6
+┃🍬➺ .Masc4
+┃🍬➺ .Masc6
+┃🍬➺ .MascInterna4
+┃🍬➺ .MascInterna6
+┃🍬➺ .Mixto4
+┃🍬➺ .Mixto6
+┃🍬➺ .MixtoInterna4
+┃🍬➺ .MixtoInterna6
+┃🍬➺ .apos
+┃🍬➺ .Ficha / jugador
+┃🍬➺ .Vs4
+┃🍬➺ .Vs6
+┃🍬➺ .Vs8
+┃🍬➺ .Vs12
+┃🍬➺ .Vs16
+┃🍬➺ .Vs20
 ╰━━━━━━━━━━━━⬣
 
 ╭━〔 TREND TIK TOK 〕⬣
 ┃💃🕺➺ .Trendtiktok
-╰━━━━━━━━━━━━⬣
+╰━━━━━━━━━━━⬣
 
 ╭━〔 SPAM Y EDITS 〕⬣
-┃👤➺ .SpamApk
 ┃👤➺ .SpamComu
-╰━━━━━━━━━━━━⬣
+╰━━━━━━━━━━━⬣
 
-╭━〔 JUEGOS - MULTI JUEGOS 〕━⬣
-┃🎡➺ .Abrazo
-┃🎡➺ .Cumple
-┃🎡➺ .Follar
-┃🎡➺ .Huevo
-┃🎡➺ .Formartrio
-┃🎡➺ .Minovia
-┃🎡➺ .Minovio
-┃🎡➺ .Sorteo
-┃🎡➺ .Nalga
-┃🎡➺ .Sega
-┃🎡➺ _.math |matemáticas
-┃🎡➺ _.lanzar cara | cruz
-┃🎡➺ .ppt piedra : papel : tijera
-┃🎡➺ .tictactoe | ttt sala
-┃🎡➺ .deltictactoe | delttt
-┃🎡➺ .topgays
-┃🎡➺ .topotakus
-┃🎡➺ .toppajer@s
-┃🎡➺ .topput@s
-┃🎡➺ .topintegrantes
-┃🎡➺ .toplagrasa | topgrasa
-┃🎡➺ .toppanafrescos
-┃🎡➺ .topshiposters
-┃🎡➺ .toplindos | toplind@s
-┃🎡➺ .topfamosos/@s
-┃🎡➺ .topparejas
-┃🎡➺ .gay | gay @tag
-┃🎡➺ .gay2 nombre : @tag
-┃🎡➺ .lesbiana nombre : @tag
-┃🎡➺ .manca nombre : @tag
-┃🎡➺ .manco nombre : @tag
-┃🎡➺ .pajero nombre : @tag
-┃🎡➺ .pajera nombre : @tag
-┃🎡➺ .puto nombre : @tag
-┃🎡➺ .puta nombre : @tag
-┃🎡➺ .rata nombre : @tag
-┃🎡➺ .love nombre : @tag
-┃🎡➺ .doxear nombre : @tag
-┃🎡➺ .doxxeame
-┃🎡➺ .pregunta texto
-┃🎡➺ .apostar | slot cantidad
-┃🎡➺ .formarpareja
-┃🎡➺ .dado
-┃🎡➺ .verdad
-┃🎡➺ .reto
-┃🎡➺ .multijuegos
-┃🎡➺ .juegos
-╰━━━━━━━━━━━━⬣
+╭━ MULTI JUEGOS ━⬣
+┃🫧➺ .Abrazo
+┃🫧➺ .Cumple
+┃🫧➺ .Follar
+┃🫧➺ .Huevo
+┃🫧➺ .Formartrio
+┃🫧➺ .Sorteo
+┃🫧➺ .Nalga
+┃🫧➺ .Sega
+┃🫧➺ _.math |matemáticas
+┃🫧➺ _.lanzar cara | cruz
+┃🫧➺ .ppt piedra : papel : tijera
+┃🫧➺ .tictactoe | ttt sala
+┃🫧➺ .deltictactoe | delttt
+┃🫧➺ .topgays
+┃🫧➺ .topotakus
+┃🫧➺ .toppajer@s
+┃🫧➺ .topput@s
+┃🫧➺ .topintegrantes
+┃🫧➺ .toplagrasa | topgrasa
+┃🫧➺ .toppanafrescos
+┃🫧➺ .topshiposters
+┃🫧➺ .toplindos | toplind@s
+┃🫧➺ .topfamosos/@s
+┃🫧➺ .topparejas
+┃🫧➺ .gay | gay @tag
+┃🫧➺ .gay2 nombre : @tag
+┃🫧➺ .lesbiana nombre : @tag
+┃🫧➺ .manca nombre : @tag
+┃🫧➺ .manco nombre : @tag
+┃🫧➺ .pajero nombre : @tag
+┃🫧➺ .pajera nombre : @tag
+┃🫧➺ .puto nombre : @tag
+┃🫧➺ .puta nombre : @tag
+┃🫧➺ .rata nombre : @tag
+┃🫧➺ .love nombre : @tag
+┃🫧➺ .doxear nombre : @tag
+┃🫧➺ .doxxeame
+┃🫧➺ .pregunta texto
+┃🫧➺ .apostar | slot cantidad
+┃🫧➺ .formarpareja
+┃🫧➺ .dado
+┃🫧➺ .verdad
+┃🫧➺ .reto
+╰━━━━━━━━━━━⬣
 
 ╭━━━[ AJUSTES - CHATS ]━━━⬣
 ┃⚙️ .on : off bienvenida
@@ -208,36 +208,29 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃🧾➺ .configuracion
 ┃🧾➺ .settings
 ┃🧾➺ .vergrupo
-╰━━━━━━━━━━━━⬣
+╰━━━━━━━━━━━⬣
 
 ╭━[ DESCARGAS | DOWNLOADS ]━⬣
-┃🚀➺ .imagen | image texto
-┃🚀➺ .pinterest | dlpinterest texto
-┃🚀➺ .wallpaper|wp texto
-┃🚀➺ .play | play2 texto o link
-┃🚀➺ .play.1 texto o link
-┃🚀➺ .play.2 texto o link 
-┃🚀➺ .ytmp3 | yta link
-┃🚀➺ .ytmp4 | ytv link
-┃🚀➺ .pdocaudio | ytadoc link
-┃🚀➺ .pdocvieo | ytvdoc link
-┃🚀➺ .tw |twdl | twitter link
-┃🚀➺ .facebook | fb link
-┃🚀➺ .verig | igstalk usuario(a)
-┃🚀➺ .ighistoria | igstory usuario(a)
-┃🚀➺ .tiktok link
-┃🚀➺ .tiktokimagen | ttimagen link
-┃🚀➺ .tiktokfoto | tiktokphoto usuario(a)
-┃🚀➺ .vertiktok | tiktokstalk usuario(a)
-┃🚀➺ .mediafire | dlmediafire link
-┃🚀➺ .clonarepo | gitclone link
-┃🚀➺ .clima país ciudad
-┃🚀➺ .consejo
-┃🚀➺ .morse codificar texto
-┃🚀➺ .morse decodificar morse
-┃🚀➺ .fraseromantica
-┃🚀➺ .historia
-╰━━━━━━━━━━━━⬣
+┃🍭➺ .imagen | image texto
+┃🍭➺ .pinterest | dlpinterest texto
+┃🍭➺ .wallpaper|wp texto
+┃🍭➺ .play | play2 texto link
+┃🍭➺ .tw |twdl | twitter link
+┃🍭➺ .facebook | fb link
+┃🍭➺ .verig | igstalk usuario(a)
+┃🍭➺ .ighistoria | igstory usuario(a)
+┃🍭➺ .tiktok link
+┃🍭➺ .tiktokimagen | ttimagen link
+┃🍭➺ .tiktokfoto | tiktokphoto usuario(a)
+┃🍭➺ .vertiktok | tiktokstalk usuario(a)
+┃🍭➺ .mediafire | dlmediafire link
+┃🍭➺ .clonarepo | gitclone link
+┃🍭➺ .consejo
+┃🍭➺ .morse codificar texto
+┃🍭➺ .morse decodificar morse
+┃🍭➺ .fraseromantica
+┃🍭➺ .historia
+╰━━━━━━━━━━━⬣
 
 ╭━[ CHAT ANONIMO ]━⬣
 ┃👤➺ .chatanonimo | anonimochat
@@ -245,7 +238,7 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃👤➺ .start
 ┃👤➺ .next
 ┃👤➺ .leave
-╰━━━━━━━━━━━━⬣
+╰━━━━━━━━━━━⬣
 
 ╭━[ CONFIGURACIÓN - GRUPOS ]━⬣
 ┃🌐➺ .add numero
@@ -275,13 +268,13 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃🌐➺ .nuevoenlace | resetlink
 ┃🌐➺ .on
 ┃🌐➺ .off
-╰━━━━━━━━━━━━⬣
+╰━━━━━━━━━━━⬣
 
-╭━━━[ CONTENIDO 🔞 ]━━⬣
+╭━━[ CONTENIDO ]━━⬣
 ┃🔞➺ .hornymenu
-╰━━━━━━━━━━━━⬣
+╰━━━━━━━━━━━⬣
 
-╭━[ CONVERTIDORES 🛰️ ]━⬣
+╭━[ CONVERTIDORES ]━⬣
 ┃🛰️➺ .toimg | img | jpg sticker
 ┃🛰️➺ .toanime | jadianime foto
 ┃🛰️➺ .tomp3 | mp3 video o nota de voz
@@ -290,10 +283,10 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃🛰️➺ .tourl video, imagen
 ┃🛰️➺ .toenlace  video, imagen o audio
 ┃🛰️➺ .tts es texto
-╰━━━━━━━━━━━━⬣
+╰━━━━━━━━━━━⬣
 
 
-╭━━━[ EFECTOS ⛺ ]━━⬣
+╭━━━[ EFECTOS ]━━⬣
 ┃⛺ .simpcard @tag
 ┃⛺ .hornycard @tag
 ┃⛺ .lolice @tag
@@ -301,10 +294,9 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃⛺ .itssostupid
 ┃⛺ .pixelar
 ┃⛺ .blur
-╰━━━━━━━━━━━━⬣
+╰━━━━━━━━━━━⬣
 
-╭━[ RANDOM | ANIME 🧩 ]━⬣
-┃🧩 .chica
+╭━[ RANDOM | ANIME ]━⬣
 ┃🧩 .chico
 ┃🧩 .cristianoronaldo
 ┃🧩 .meme
@@ -353,9 +345,9 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃🧩 .sasuke
 ┃🧩 .sakura
 ┃🧩 .cosplay
-╰━━━━━━━━━━━━⬣
+╰━━━━━━━━━━━⬣
 
-╭━[ MODIFICAR AUDIO 🧰 ]━⬣
+╭━[ MODIFICAR AUDIO]⬣
 ┃🧰 .bass
 ┃🧰 .blown
 ┃🧰 .deep
@@ -368,9 +360,9 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃🧰 .slow
 ┃🧰 .smooth
 ┃🧰 .tupai
-╰━━━━━━━━━━━━⬣
+╰━━━━━━━━━━━⬣
 
-╭━━[ BÚSQUEDAS 🔍 ]━━⬣
+╭━━[ BÚSQUEDAS🔍]━⬣
 ┃🔍➺ .animeinfo texto
 ┃🔍➺ .mangainfo texto
 ┃🔍➺ .google texto
@@ -378,9 +370,9 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃🔍➺ .letra | lirik texto
 ┃🔍➺ .ytsearch | yts texto
 ┃🔍➺ .wiki | wikipedia texto
-╰━━━━━━━━━━━━⬣
+╰━━━━━━━━━━━⬣
 
-╭━━[ HERRAMIENTAS 🛠️ ]━━⬣
+╭━[ HERRAMIENTAS ]━⬣
 ┃🛠️ .afk motivo
 ┃🛠️ .acortar url
 ┃🛠️ .calc operacion math
@@ -394,9 +386,9 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃🛠️ .morse decodificar morse
 ┃🛠️ .encuesta | poll Motivo
 ┃🛠️ .horario
-╰━━━━━━━━━━━━⬣
+╰━━━━━━━━━━━⬣
 
-╭━━━[ FUNCIÓN RPG ]━━⬣
+╭━[ FUNCIÓN RPG ]━⬣
 ┃⚗️➺ .pase premium
 ┃⚗️➺ .pass premium
 ┃⚗️➺ .listapremium | listprem
@@ -430,28 +422,23 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃⚗️➺ .cadames | mes | monthly
 ┃⚗️➺ .cofre | abrircofre | coffer
 ┃⚗️➺ .trabajar | work
-╰━━━━━━━━━━━━⬣
+╰━━━━━━━━━━━⬣
 
-╭━━━[ TOP EN OPTIMUS ]━━⬣
+╭━[ TOP EN OPTIMUS ]━⬣
 ┃🏆➺ .top
-╰━━━━━━━━━━━━⬣
+╰━━━━━━━━━━━⬣
 
-╭━[ STICKERS Y FILTROS ]━⬣
+╭━[ STICKERS ]━⬣
 ┃🎐 .sticker | s imagen o video
 ┃🎐 .sticker | s url de tipo jpg
 ┃🎐 .emojimix 😺+😆
-┃🎐 .scircle | círculo imagen
-┃🎐 .semoji | emoji tipo emoji
 ┃🎐 .dado
-┃🎐 .stickermarker efecto : responder a imagen
-┃🎐 .stickerfilter efecto : responder a imagen
-┃🎐 .cs : cs2
-╰━━━━━━━━━━━━⬣
+╰━━━━━━━━━━━⬣
 
 ╭━[ MODIFICAR STICKERS ]━⬣
 ┃💡 .wm packname|author
 ┃💡 .wm texto1|texto2
-╰━━━━━━━━━━━━⬣
+╰━━━━━━━━━━━⬣
 
 ╭━[ STICKERS DINÁMICOS ]━⬣
 ┃⛱️ .palmaditas | pat @tag
@@ -459,7 +446,7 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃⛱️ .golpear @tag
 ┃⛱️ .besar | kiss @tag
 ┃⛱️ .alimentar | food @tag
-╰━━━━━━━━━━━━⬣
+╰━━━━━━━━━━━⬣
 
 ╭━[ MENU PARA PROPIETARIO/A ]━⬣
 ┃💎➺ .join enlace
@@ -490,7 +477,7 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃💎➺ .añadirdiamantes @tag cantidad
 ┃💎➺ .añadirxp @tag cantidad
 ┃💎➺ .añadircoins @tag cantidad
-╰━━━━━━━━━━━━⬣*`.trim()
+╰━━━━━━━━━━⬣*`.trim()
 await conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
 	
 } catch (e) {
