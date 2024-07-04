@@ -267,11 +267,6 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃🌐➺ .advertencia @tag
 ┃🌐➺ .deladvertencia @tag
 ┃🌐➺ .delwarn @tag
-┃🌐➺ .crearvoto | startvoto texto
-┃🌐➺ .sivotar | upvote
-┃🌐➺ .novotar | devote
-┃🌐➺ .vervotos | cekvoto
-┃🌐➺ .delvoto | deletevoto
 ┃🌐➺ .enlace | link
 ┃🌐➺ .newnombre | nuevonombre texto
 ┃🌐➺ .newdesc | descripcion texto
@@ -312,7 +307,6 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃🧩 .chica
 ┃🧩 .chico
 ┃🧩 .cristianoronaldo
-┃🧩 .messi
 ┃🧩 .meme
 ┃🧩 .meme2
 ┃🧩 .itzy
