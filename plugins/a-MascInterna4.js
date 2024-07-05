@@ -28,5 +28,5 @@ global.MascInterna4 = `
 │ 
 │   _⊹ ִֶָ Donador/Donadora De Sala:_  
 │ 
-╰───────────────๑❀๑  `;
+╰───────────────๑❀๑ 
 `;
