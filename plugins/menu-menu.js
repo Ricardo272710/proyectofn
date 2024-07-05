@@ -106,6 +106,8 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃🍬➺ .Masc6
 ┃🍬➺ .MascInterna4
 ┃🍬➺ .MascInterna6
+┃🍬➺ .reglasclk
+┃🍬➺ .guerra
 ┃🍬➺ .Mixto4
 ┃🍬➺ .Mixto6
 ┃🍬➺ .MixtoInterna4
