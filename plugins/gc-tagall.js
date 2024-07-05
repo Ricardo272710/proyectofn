@@ -10,11 +10,11 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
   }
   const pesan = args.join``;
   const oi = `${pesan}`;
-  let teks = `╭─────────\n│❏ Spider 𝗕𝗼𝘁 🐉\n│❏ 𝗠𝗶𝗲𝗺𝗯𝗿𝗼𝘀 : *${participants.length}* ${oi}\n│❏ 𝘼𝙘𝙩𝙞𝙫𝙖𝙩𝙚 𝙢𝙖𝙣𝙘@\n│\n`;
+  let teks = `╭─────────\n│❏ 𝘽𝙊𝙏 𝙁𝙉 𝙎𝙋𝙊𝙍𝙏𝙎 🐉\n│❏ 𝗠𝗶𝗲𝗺𝗯𝗿𝗼𝘀 : *${participants.length}* ${oi}\n│❏ 𝘼𝙘𝙩𝙞𝙫𝙖𝙩𝙚 𝙢𝙖𝙣𝙘@\n│\n`;
   for (const mem of participants) {
     teks += `│🐉 @${mem.id.split('@')[0]}\n`;
   }
-  teks += `│\n╰@proyecto_r.a_`;
+  teks += `│\n╰𝘽𝙊𝙏 𝙁𝙉 𝙎𝙋𝙊𝙍𝙏𝙎`;
   conn.sendMessage(m.chat, {text: teks, mentions: participants.map((a) => a.id)} );
 };
 handler.help = ['tagall <mesaje>', 'invocar <mesaje>'];
