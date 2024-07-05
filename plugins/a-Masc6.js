@@ -1,18 +1,18 @@
 const handler = async (m, {conn}) => {
-  m.reply(global.Masc6);
+  m.reply(global.masc6);
 };
-handler.command = /^(Masc6|Masc6)$/i;
+handler.command = /^(masc6|Masc6)$/i;
 export default handler;
 handler.admin = true
 handler.group = true
 handler.botAdmin = true
 
-global.Masc6 = `
-╭┈┈ ๑❀๑ •  *MASC* • ๑❀๑ ••:
+global.masc6 = `
+╭┈┈ ๑❀๑ •  MASC • ๑❀๑ ••:
 │
-│      ෆ _Encargadx:_  
-│      ෆ _Horario:_ (  )🇲🇽 (  )🇨🇴
-│      ෆ _Mod:_ 
+│      ෆ Encargadx:  
+│      ෆ Horario: (  )🇲🇽 (  )🇨🇴
+│      ෆ Mod: 
 │
 │ㅤㅤ_ʚ 𝘑𝘶𝘨𝘢𝘥𝘰𝘳𝘦𝘴:_
 │ㅤ🥷🏻• 
@@ -27,8 +27,7 @@ global.Masc6 = `
 │ㅤ🥷🏻• 
 │ㅤ🥷🏻• 
 │
-│   _⊹ ִֶָ Donador/Donadora De Sala:_ 
+│   ⊹ ִֶָ Donador/Donadora De Sala: 
 │
 ╰───────────────๑❀๑ 
-`;
 `;
